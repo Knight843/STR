@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\STR\\STR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\STR\\STR\\Library\\PackageCache\\com.unity.collab-proxy@2.9.3\\Editor\\FindWorkspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@2.9.3\\Editor\\FindWorkspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FD3D2E7-05F4-CDB9-EAF0-0CFCBE3B92B8}|Assembly-CSharp.csproj|E:\\STR\\STR\\assets\\scenes\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD3D2E7-05F4-CDB9-EAF0-0CFCBE3B92B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FD3D2E7-05F4-CDB9-EAF0-0CFCBE3B92B8}|Assembly-CSharp.csproj|e:\\str\\str\\assets\\scenes\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD3D2E7-05F4-CDB9-EAF0-0CFCBE3B92B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\STR\\STR\\Library\\PackageCache\\com.unity.collab-proxy@2.9.3\\Editor\\FindWorkspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@2.9.3\\Editor\\FindWorkspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FindWorkspace.cs",
               "DocumentMoniker": "E:\\STR\\STR\\Library\\PackageCache\\com.unity.collab-proxy@2.9.3\\Editor\\FindWorkspace.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@2.9.3\\Editor\\FindWorkspace.cs",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "playerScript.cs",
               "DocumentMoniker": "E:\\STR\\STR\\Assets\\Scenes\\scripts\\playerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\playerScript.cs",
               "ToolTip": "E:\\STR\\STR\\Assets\\Scenes\\scripts\\playerScript.cs",
               "RelativeToolTip": "Assets\\Scenes\\scripts\\playerScript.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwHkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T17:23:16.872Z",
               "EditorCaption": ""

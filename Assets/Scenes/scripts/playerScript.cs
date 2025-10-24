@@ -108,7 +108,7 @@ public class playerScript : MonoBehaviour
         {
             transform.position = Spawn.position;
         }
-        if (collision.collider.CompareTag("escalable"))
+        if (collision.gameObject.CompareTag("escalable"))
         {
          estaCercaDeEscalable = true;
         }
@@ -119,7 +119,7 @@ public class playerScript : MonoBehaviour
         {
             IsGrounded = false;
         }
-        if (collision.collider.CompareTag("escalable"))
+        if (collision.gameObject.CompareTag("escalable"))
         {
          estaCercaDeEscalable = false;
          DetenerEscalada();
