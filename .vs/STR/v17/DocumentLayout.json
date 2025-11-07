@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\informatica1\\proyecto-unity\\STR\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1FD3D2E7-05F4-CDB9-EAF0-0CFCBE3B92B8}|Assembly-CSharp.csproj|c:\\users\\informatica1\\proyecto-unity\\str\\assets\\scenes\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD3D2E7-05F4-CDB9-EAF0-0CFCBE3B92B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\informatica1\\STR\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "playerScript.cs",
-              "DocumentMoniker": "C:\\Users\\informatica1\\proyecto-unity\\STR\\Assets\\Scenes\\scripts\\playerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\playerScript.cs",
-              "ToolTip": "C:\\Users\\informatica1\\proyecto-unity\\STR\\Assets\\Scenes\\scripts\\playerScript.cs",
-              "RelativeToolTip": "Assets\\Scenes\\scripts\\playerScript.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwFsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T18:43:34.177Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
